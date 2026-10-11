@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Science Graduate & Software Engineer</b> specializing in robust software architecture, concurrent systems, and performant backend services.
+  <b>Computer Science Graduate & Software Engineer</b> specializing in software architecture, developing software, devops, concurrent systems, and performant backend services.
 </p>
 
 <p align="center">
