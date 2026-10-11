@@ -132,6 +132,19 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/HuNtr99/seminar-management-system">Seminar Management System</a></h3>
+      <p>Postgraduate research symposium portal in Java Swing with multi-role dashboards (Student, Evaluator, Coordinator), scoring rubrics, and UML architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOAD-UML%20Architecture-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Java%20Swing-GUI-blue?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
